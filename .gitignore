@@ -1,0 +1,6 @@
+config.php
+.buildpath
+.project
+data/*
+!data/.gitkeep
+dbver.iml
